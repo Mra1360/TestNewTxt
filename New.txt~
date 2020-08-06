@@ -1,7 +1,11 @@
 A young intelligent turtle
 
 I found a new way to write new lines.
-That (likes very) using Vim
+<<<<<<< HEAD
+This is a very compolicated situation and I have to understand this issue in V
+=======
+That (likes very) using Vim. This is very harmful!
+>>>>>>> newfile
 Found programming and UNIX a hurdle.So nice!
 
 
