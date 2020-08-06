@@ -2,12 +2,12 @@ A young intelligent turtle
 
 I found a new way to write new lines.
 That liked using Vim
-Found programming UNIX a hurdle.
+Found programming UNIX a hurdle.So nice!
 
 
 
 
-I am new to Data Science field.
+>>I want to learning a lot in Data Science field and this very exciting for me
 So help me! :))
 
 This line is saved into the newline branch in git.
